@@ -1,17 +1,18 @@
-## Hi there 👋
-
--  I’m Sushant
-- Pursuing a Bachelor’s in Computer Science at UTD
 
 - # 👋 Hi, I'm Sushant Botla!
 
-**AI & Embedded Systems Developer | Computer Science Student @ UT Dallas**
+**CS @ UT Dallas**
 
-I'm passionate about building intelligent systems, from AI-powered applications to autonomous robotics. Currently working on cutting-edge projects in AI training and embedded systems while maintaining a **3.9 GPA** at UT Dallas.
+## 🌐 Connect With Me
+
+- 📧 **Email:** [sushantbotla@gmail.com](mailto:sushantbotla@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/sushantbotla](https://linkedin.com/in/sushantbotla)
+- 🎥 **YouTube:** [@SushantBotla](https://youtube.com/@SushantBotla)
+- 🏆 **DevPost:** [devpost.com/SushantBotla](https://devpost.com/SushantBotla)
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🚀Currently:
 
 - **🤖 AI Training Fellow** at Handshake – Designing scalable evaluation pipelines for large language models and post-training techniques
 - **🛸 Embedded Software Developer** at Comet Robotics – Developing ROS packages for UTD's Solis Rover Project (competing in the International University Rover Challenge)
@@ -19,25 +20,33 @@ I'm passionate about building intelligent systems, from AI-powered applications 
 
 ---
 
-## 💻 Tech Stack
 
-**Languages:** Java | C/C++ | Python | SQL | LaTeX | JavaScript
-
-**Tools & Frameworks:** 
-- 🛠️ Git, Docker, ROS (Robot Operating System)
-- 🎨 Figma, Swing, JavaFX
-- 📊 MySQL, Power BI
-- 🤖 Gemini API, Linux
-
----
 
 ## 🏆 Featured Projects
+
+### 🎮 **CrashOut - Cybersecurity Learning Game** (HackAI 2026)
+*TypeScript, Next.js, Gemini API, LiveKit, Socket.IO, MongoDB*
+- 🎯 Developed an **interactive mobile app** that gamifies cybersecurity education through engaging gameplay
+- 🤖 Integrated **Gemini API** to power:
+  - Intelligent mentor chatbot for guided learning
+  - Dynamic quiz generation tailored to user progress
+  - Adaptive lesson plans based on real-time performance scores
+- 📊 Built **live global leaderboard and experience system** with MongoDB for competitive engagement
+- 💬 Implemented **real-time messaging** and synchronized app data using LiveKit + Socket.IO
+- **Impact:** Makes cybersecurity learning fun, accessible, and competitive
+- 🔗 **Links:**
+  - [GitHub Repository](https://github.com/KaartikVirigineni/HackAI-2026)
+  - [DevPost Submission](https://devpost.com/software/cyberarena)
+  - [Demo Video](https://www.youtube.com/watch?v=0Ccadf0KqAI)
 
 ### 🎯 **AIRE - Real Estate Chatbot** (HackUTD 2025)
 *JavaScript, Figma, Gemini API*
 - Built an intelligent real estate platform with an interactive chatbot powered by Google's Gemini API
 - Collaborated with a teammate in North America's largest 24-hour hackathon
-- **Live Demo:** [GitHub Repo](https://github.com/SushantBotla)
+- 🔗 **Links:**
+  - [GitHub Repository](https://github.com/SushantBotla/AIRE/tree/main)
+  - [DevPost Submission](https://devpost.com/software/cbre-real-estate-website)
+  - [Demo Video](https://www.youtube.com/watch?v=5VcrStNtCpI)
 
 ### 🚁 **Custom Drone Build & Flight Controller**
 *C/C++, Soldering, Circuitry, BetaFlight*
@@ -51,12 +60,6 @@ I'm passionate about building intelligent systems, from AI-powered applications 
 - Created an intuitive GUI for non-technical users
 - Features: tutor/student management, event scheduling, and data persistence
 - **Impact:** Streamlined operations for Jump Start non-profit
-
-### 🛰️ **ROS Raman Spectrometer Data Streaming**
-*ROS, C++, Python*
-- Developing a new ROS package for the Solis Rover Project
-- Streaming sensor data for autonomous rover mission planning
-- Collaborated on demo nodes for team competitions
 
 ---
 
@@ -120,15 +123,6 @@ I'm passionate about building intelligent systems, from AI-powered applications 
 
 ---
 
-## 🌐 Connect With Me
-
-- 📧 **Email:** [sushantbotla@gmail.com](mailto:sushantbotla@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/sushantbotla](https://linkedin.com/in/sushantbotla)
-- 🎥 **YouTube:** [@SushantBotla](https://youtube.com/@SushantBotla)
-- 🏆 **DevPost:** [devpost.com/SushantBotla](https://devpost.com/SushantBotla)
-- 📱 **Phone:** 512-999-0293
-
----
 
 ## 🎮 Beyond Coding
 
