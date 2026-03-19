@@ -154,17 +154,14 @@ I'm always interested in:
 - 🌱 Open-source contributions
 
 Feel free to reach out if you'd like to work together or discuss tech!
-
 ---
 
 <div align="center">
 
-**Made with ❤️ by Sushant Botla**
+**Made with GitHub Copilot Chat**
 
 *Last Updated: March 2026*
 
 </div>
 
-<!-- ⚡ Fun facts: ...
--->
   
